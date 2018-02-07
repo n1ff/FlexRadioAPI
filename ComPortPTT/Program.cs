@@ -9,8 +9,17 @@ namespace ComPortPTT
     {
         /// <summary>
         /// The main entry point for the application.
-        /// Michael
-        /// </summary>
+        ///dssdssdsdsddsds
+	///
+	///
+	///
+	///
+	///
+	///
+	///
+	///
+	///
+	////// </summary>
         [STAThread]
         static void Main()
         {
